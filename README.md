@@ -1,0 +1,2 @@
+# yinux
+my first linux
